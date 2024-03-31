@@ -11,6 +11,7 @@
 * Positioning Elements
 * BEM Methodology
 * Figma
+  
 
 ## Будущая доработка проекта будет включать в себя:
 
